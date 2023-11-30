@@ -15,7 +15,6 @@ Additionally, it lets you save your favorite recipes for future reference, makin
     - [Strategy](#strategy)
     - [User Stories](#user-stories)
   - [Tech Stack](#tech-stack)
-  - [Visual Preview](#visual-preview)
   - [Local Deployment](#local-deployment)
   - [Credits](#credits)
   - [Acknowledgements](#acknowledgements)
@@ -63,23 +62,6 @@ Additionally, it lets you save your favorite recipes for future reference, makin
 ![Edamam API Badge](https://img.shields.io/badge/Edamam%20API-v2-green?style=for-the-badge)
 
 ---
-
- # Visual Preview
- <br>
-
-| <video width="100%" controls autoplay loop><source src="assets/videos/v1.mp4" type="video/mp4">Your browser does not support the video tag.</video> | <video width="100%" controls autoplay loop><source src="assets/videos/v2.mp4" type="video/mp4">Your browser does not support the video tag.</video> |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-
-<br>
-
-
-| **Responsive Design** |
-| ----------------- |
-| <img src="assets/images/desktopview.png" alt="Desktop View" width="100%"> <img src="assets/images/tabview.png" alt="Tablet View" width="60%"> <img src="assets/images/mobileview.png" alt="Mobile View" width="39.5%"> |
-
-
----
-
 # Local Deployment
 
 To run locally, follow these steps:
