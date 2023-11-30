@@ -14,6 +14,7 @@ Additionally, it lets you save your favorite recipes for future reference, makin
   - [UX Development](#ux-development)
     - [Strategy](#strategy)
     - [User Stories](#user-stories)
+  - [Visual Preview](#visual-preview)
   - [Tech Stack](#tech-stack)
   - [Local Deployment](#local-deployment)
   - [Credits](#credits)
@@ -53,6 +54,15 @@ Additionally, it lets you save your favorite recipes for future reference, makin
 - Discover new recipes with different filters.
 
 ---
+
+## Visual Preview
+
+https://github.com/Khus07hi/RecipeGenie-MealExplorer/assets/141567565/6a11bf5a-05ad-4b8a-9710-1abf0209f518
+
+
+
+https://github.com/Khus07hi/RecipeGenie-MealExplorer/assets/141567565/46c8c101-8736-4f28-a9c7-7139b4e6b7b4
+
 
 ## Tech Stack
 
